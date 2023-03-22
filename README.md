@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @JanCarlosPM
-- 👀 I am interested in programming with c ++ and object oriented.
-- 🌱 I am currently learning Java and I am 80% mastered c ++.
-- 💞️ I am looking to collaborate on projects about what I am seeing in the uni and acquire knowledge.
-- 📫 How to reach me, by github or by my mail

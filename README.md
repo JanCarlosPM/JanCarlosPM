@@ -16,7 +16,7 @@
 *   🌍  I'm based in Nicaragua
 *   🖥️  See my portfolio at [MyPortafolio](http://janprado.com)
 *   ✉️  You can contact me at [jancarlospm18@gmail.com](mailto:jancarlospm18@gmail.com)
-*   🧠  I'm learning Excel and Flutter
+*   🧠  I'm learning Excel Avanzado and Kotlin Jetpack Compose Avanzado
     
 <br>
 
